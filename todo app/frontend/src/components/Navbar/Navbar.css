@@ -1,0 +1,39 @@
+.navb
+{
+    background-color: #0D1B2A;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.img
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.txt:hover
+{
+    color:bisque;
+}
+.fst
+{
+    font-size: larger;
+}
+.fst-5
+{
+    font-size: x-large;
+    font-style: italic;
+}
+.it
+{
+    width: 1px;
+}
+.button
+{
+    background-color: #2e3d58;
+    color: white;
+}
+.button:hover
+{
+    background-color: #607499;
+    color: white;
+}

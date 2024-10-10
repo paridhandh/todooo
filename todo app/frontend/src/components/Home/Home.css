@@ -1,0 +1,38 @@
+.home
+{
+    height: 90vh;
+    width: 100%;
+    /* background-image: linear-gradient(#233453,#1B263B,#0D1B2A); */
+    background-image: url("https://media.istockphoto.com/id/1404094741/vector/dark-blue-modern-abstract-background-with-diagonal-geometric-shapes.jpg?s=612x612&w=0&k=20&c=UkRby-pVecOMq9nyOn00HSsAuc9wa12k9OScnZUFS8M=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading
+{
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-style: italic;
+    font-weight: 200;
+}
+.para
+{
+    font-size: x-large;
+    font-family: sans-serif;
+    color: white;
+}
+.buttons
+{
+    margin-top: -18vh;
+}
+
+.button
+{
+    background-color: #2e3d58;
+    color: white;
+}
+.button:hover
+{
+    background-color: #607499;
+    color: white;
+}

@@ -1,0 +1,18 @@
+.signup
+{
+    background-image: linear-gradient(#233453,#1B263B,#0D1B2A);
+    height: 91vh;
+    width: 100%;
+}
+.box
+{
+    border-radius: 2%;
+}
+.button
+{
+    background-color: #1B263B;
+}
+.ms-10
+{
+    margin-left: 40%;
+}
